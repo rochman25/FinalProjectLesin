@@ -1,0 +1,12 @@
+package com.kelompok1.pmo.lesin;
+
+import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+
+public class RegisterActiviy extends AppCompatActivity {
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_register);
+    }
+}

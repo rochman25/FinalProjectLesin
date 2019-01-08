@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "921162828255",
+    "firebase_url": "https://les-in-aja.firebaseio.com",
+    "project_id": "les-in-aja",
+    "storage_bucket": "les-in-aja.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921162828255:android:f3c8392d2b8bb2d9",
+        "android_client_info": {
+          "package_name": "com.kelompok1.pmo.lesin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921162828255-hr2kef76979n1fsk99aonprlq3egekdp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kelompok1.pmo.lesin",
+            "certificate_hash": "09013b564ae381b959780b9e18fe32d40e8dd0a3"
+          }
+        },
+        {
+          "client_id": "921162828255-ofndat045n5tf3rb62nu8mu85nijlagd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwTdfr8PocSYhJFyYZuVMQWNtWzy5nwVA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921162828255-ofndat045n5tf3rb62nu8mu85nijlagd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
